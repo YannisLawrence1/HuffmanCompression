@@ -1,5 +1,6 @@
 # HuffmanCompression
 Yannis Lawrence
+
 A Huffman compression algorithm I built for ECM1414
 
 Note: The python package bitstring is required for the solution to run, use the command: _pip install bitstring_ 
