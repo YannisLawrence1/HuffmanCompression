@@ -1,0 +1,1 @@
+Place the text files you want to compress in this folder
