@@ -1,4 +1,4 @@
-# HuffmanCompression
+# Huffman Compression
 
 Yannis Lawrence
 
