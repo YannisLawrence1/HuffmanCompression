@@ -2,8 +2,6 @@
 
 Yannis Lawrence
 
-A Huffman compression algorithm I built for ECM1414
-
 Note: The python package bitstring is required for the solution to run, use the command: _pip install bitstring_ 
 
 To begin makes sure the file you would like to compress file is within the folder _*/res/YOUR_FILE_Name.txt_ and that the encoding of the file is utf-8 and is a .txt file. Once the requirments are met open the file _*/src/Encoder.py_ and then follow the prompts given on screen.
